@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!%20Welcome%20To%20My%20Git!&fontAlign=40&fontAlignY=40&color=gradient)
 
 <!--
 **seungg-0/seungg-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
