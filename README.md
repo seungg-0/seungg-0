@@ -37,7 +37,7 @@
 <br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=https://www.acmicpc.net/user/kjm061652)](https://solved.ac/profile/[kjm061652])
+kjm061652](http://mazassumnida.wtf/api/v2/generate_badge?boj=https://www.acmicpc.net/user/kjm061652)](https://solved.ac/profile/[kjm061652])
 
 
 <!--
