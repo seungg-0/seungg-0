@@ -36,9 +36,10 @@
 
 <br>
 
+### 🚌 Top Langs & Algorithm
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjm061652&layout=compact)
 [![Solved.ac
-kjm061652](http://mazassumnida.wtf/api/v2/generate_badge?boj=https://www.acmicpc.net/user/kjm061652)](https://solved.ac/profile/[kjm061652])
-
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjm061652)](https://solved.ac/kjm061652)
 
 <!--
 **seungg-0/seungg-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
