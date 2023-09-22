@@ -40,7 +40,8 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjm061652)](https://solved.ac/kjm061652)
 
 
-[![Eunyeop LEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungg-0)](https://github.com/seungg-0/github-readme-stats)
+![Suhyun's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=seungg-0&show_icons=true?username=seungg-0&count_private=true)
+
 
 <!--
 **seungg-0/seungg-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
