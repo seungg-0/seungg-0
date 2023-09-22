@@ -36,6 +36,9 @@
 
 <br>
 
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungg-0&layout=compact)
+
 ### 🚌 Top Langs & Algorithm
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjm061652)](https://solved.ac/kjm061652)
 
