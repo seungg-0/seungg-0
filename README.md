@@ -6,6 +6,13 @@
 
 ### 안녕하세요 항상 발전하는 개발자 김승연입니다.
 
+ 
+### Interests
+![로고명](https://img.shields.io/badge/로고명-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=green)
+
+### Skills
+
+
 <!--
 **seungg-0/seungg-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
