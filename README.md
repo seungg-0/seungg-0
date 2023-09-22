@@ -2,8 +2,7 @@
 
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!%20Welcome%20To%20My%20Git!&fontAlign=40&fontAlignY=40&color=gradient)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungg-0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungg-0&count_bg=%2311BFD0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 안녕하세요 항상 발전하는 개발자 김승연입니다.
 
