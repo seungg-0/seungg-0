@@ -8,7 +8,7 @@
 
  
 ### Interests
-![로고명](https://img.shields.io/badge/로고명-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=green)
+![pringboot](https://img.shields.io/badge/로고명-6DB33F.svg?&style=for-the-badge&logo=pringboot&logoColor=green)
 
 ### Skills
 
